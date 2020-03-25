@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="541" it="0" lt="540" ct="189" ts="1584697697850" s="true" lb="HTTP请求 26环境并发" rc="200" rm="OK" tn="语义理解 1-1" dt="text" by="1452" sby="574" ng="2" na="2">
+  <assertionResult>
+    <name>JSON Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="356" it="0" lt="356" ct="51" ts="1584697698279" s="true" lb="HTTP请求 26环境并发" rc="200" rm="OK" tn="语义理解 1-2" dt="text" by="1449" sby="571" ng="1" na="1">
+  <assertionResult>
+    <name>JSON Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+</httpSample>
+
+<httpSample t="423" it="0" lt="422" ct="83" ts="1584698236054" s="true" lb="HTTP请求 26环境并发" rc="200" rm="OK" tn="语义理解 1-1" dt="text" by="1452" sby="574" ng="1" na="1">
+  <assertionResult>
+    <name>JSON Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="444" it="0" lt="444" ct="43" ts="1584698236502" s="true" lb="HTTP请求 26环境并发" rc="200" rm="OK" tn="语义理解 1-2" dt="text" by="1449" sby="571" ng="1" na="1">
+  <assertionResult>
+    <name>JSON Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+</httpSample>
+
+<httpSample t="1795" it="0" lt="1794" ct="176" ts="1584698744321" s="false" lb="HTTP请求 26环境并发" rc="200" rm="OK" tn="语义理解 1-1" dt="text" by="842" sby="574" ng="2" na="2">
+  <assertionResult>
+    <name>JSON Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Missing property in path $[&apos;data&apos;][&apos;nlpResult&apos;]</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1645" it="0" lt="1645" ct="53" ts="1584698744774" s="false" lb="HTTP请求 26环境并发" rc="200" rm="OK" tn="语义理解 1-2" dt="text" by="806" sby="571" ng="1" na="1">
+  <assertionResult>
+    <name>JSON Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Missing property in path $[&apos;data&apos;][&apos;nlpResult&apos;]</failureMessage>
+  </assertionResult>
+</httpSample>
+
+<httpSample t="1693" it="0" lt="1691" ct="116" ts="1584762405826" s="true" lb="HTTP请求 26环境并发" rc="200" rm="OK" tn="语义理解 1-2" dt="text" by="1456" sby="571" ng="2" na="2">
+  <assertionResult>
+    <name>JSON Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="2108" it="0" lt="2106" ct="355" ts="1584762405411" s="false" lb="HTTP请求 26环境并发" rc="200" rm="OK" tn="语义理解 1-1" dt="text" by="844" sby="574" ng="2" na="2">
+  <assertionResult>
+    <name>JSON Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Missing property in path $[&apos;data&apos;][&apos;nlpResult&apos;]</failureMessage>
+  </assertionResult>
+</httpSample>
+
+<httpSample t="2075" it="0" lt="2064" ct="417" ts="1584763108205" s="false" lb="HTTP请求 26环境并发" rc="200" rm="OK" tn="语义理解 1-1" dt="text" by="806" sby="574" ng="2" na="2">
+  <assertionResult>
+    <name>JSON Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Missing property in path $[&apos;data&apos;][&apos;nlpResult&apos;]</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1691" it="0" lt="1691" ct="53" ts="1584763108658" s="false" lb="HTTP请求 26环境并发" rc="200" rm="OK" tn="语义理解 1-2" dt="text" by="842" sby="571" ng="2" na="2">
+  <assertionResult>
+    <name>JSON Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Missing property in path $[&apos;data&apos;][&apos;nlpResult&apos;]</failureMessage>
+  </assertionResult>
+</httpSample>
+
+<httpSample t="1892" it="0" lt="1889" ct="226" ts="1584769332856" s="false" lb="HTTP请求 26环境并发" rc="200" rm="OK" tn="语义理解 1-1" dt="text" by="842" sby="574" ng="2" na="2">
+  <assertionResult>
+    <name>JSON Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Missing property in path $[&apos;data&apos;][&apos;nlpResult&apos;]</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1656" it="0" lt="1656" ct="42" ts="1584769333269" s="false" lb="HTTP请求 26环境并发" rc="200" rm="OK" tn="语义理解 1-2" dt="text" by="854" sby="571" ng="1" na="1">
+  <assertionResult>
+    <name>JSON Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Missing property in path $[&apos;data&apos;][&apos;nlpResult&apos;]</failureMessage>
+  </assertionResult>
+</httpSample>
+
+<httpSample t="2132" it="0" lt="2131" ct="314" ts="1584770197933" s="false" lb="HTTP请求 26环境并发" rc="200" rm="OK" tn="语义理解 1-1" dt="text" by="869" sby="574" ng="2" na="2">
+  <assertionResult>
+    <name>JSON Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Missing property in path $[&apos;data&apos;][&apos;nlpResult&apos;]</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1758" it="0" lt="1758" ct="76" ts="1584770198383" s="false" lb="HTTP请求 26环境并发" rc="200" rm="OK" tn="语义理解 1-2" dt="text" by="842" sby="571" ng="1" na="1">
+  <assertionResult>
+    <name>JSON Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Missing property in path $[&apos;data&apos;][&apos;nlpResult&apos;]</failureMessage>
+  </assertionResult>
+</httpSample>
+
+<httpSample t="2077" it="0" lt="2071" ct="358" ts="1584770930549" s="false" lb="HTTP请求 26环境并发" rc="200" rm="OK" tn="语义理解 1-2" dt="text" by="843" sby="571" ng="20" na="20">
+  <assertionResult>
+    <name>JSON Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Missing property in path $[&apos;data&apos;][&apos;nlpResult&apos;]</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1931" it="0" lt="1931" ct="220" ts="1584770930695" s="false" lb="HTTP请求 26环境并发" rc="200" rm="OK" tn="语义理解 1-5" dt="text" by="842" sby="565" ng="20" na="20">
+  <assertionResult>
+    <name>JSON Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Missing property in path $[&apos;data&apos;][&apos;nlpResult&apos;]</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="2029" it="0" lt="2024" ct="317" ts="1584770930596" s="false" lb="HTTP请求 26环境并发" rc="200" rm="OK" tn="语义理解 1-3" dt="text" by="806" sby="571" ng="20" na="20">
+  <assertionResult>
+    <name>JSON Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Missing property in path $[&apos;data&apos;][&apos;nlpResult&apos;]</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1884" it="0" lt="1884" ct="167" ts="1584770930748" s="false" lb="HTTP请求 26环境并发" rc="200" rm="OK" tn="语义理解 1-6" dt="text" by="869" sby="574" ng="20" na="20">
+  <assertionResult>
+    <name>JSON Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Missing property in path $[&apos;data&apos;][&apos;nlpResult&apos;]</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1832" it="0" lt="1832" ct="118" ts="1584770930795" s="false" lb="HTTP请求 26环境并发" rc="200" rm="OK" tn="语义理解 1-7" dt="text" by="843" sby="574" ng="20" na="20">
+  <assertionResult>
+    <name>JSON Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Missing property in path $[&apos;data&apos;][&apos;nlpResult&apos;]</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="2073" it="0" lt="2073" ct="364" ts="1584770930549" s="false" lb="HTTP请求 26环境并发" rc="200" rm="OK" tn="语义理解 1-1" dt="text" by="854" sby="574" ng="20" na="20">
+  <assertionResult>
+    <name>JSON Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Missing property in path $[&apos;data&apos;][&apos;nlpResult&apos;]</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1746" it="0" lt="1746" ct="55" ts="1584770930895" s="false" lb="HTTP请求 26环境并发" rc="200" rm="OK" tn="语义理解 1-9" dt="text" by="844" sby="568" ng="20" na="20">
+  <assertionResult>
+    <name>JSON Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Missing property in path $[&apos;data&apos;][&apos;nlpResult&apos;]</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1778" it="0" lt="1778" ct="64" ts="1584770930848" s="false" lb="HTTP请求 26环境并发" rc="200" rm="OK" tn="语义理解 1-8" dt="text" by="843" sby="574" ng="20" na="20">
+  <assertionResult>
+    <name>JSON Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Missing property in path $[&apos;data&apos;][&apos;nlpResult&apos;]</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1980" it="0" lt="1975" ct="266" ts="1584770930646" s="false" lb="HTTP请求 26环境并发" rc="200" rm="OK" tn="语义理解 1-4" dt="text" by="870" sby="565" ng="20" na="20">
+  <assertionResult>
+    <name>JSON Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Missing property in path $[&apos;data&apos;][&apos;nlpResult&apos;]</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1746" it="0" lt="1746" ct="51" ts="1584770930995" s="false" lb="HTTP请求 26环境并发" rc="200" rm="OK" tn="语义理解 1-11" dt="text" by="842" sby="577" ng="11" na="11">
+  <assertionResult>
+    <name>JSON Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Missing property in path $[&apos;data&apos;][&apos;nlpResult&apos;]</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1808" it="0" lt="1808" ct="100" ts="1584770930946" s="false" lb="HTTP请求 26环境并发" rc="200" rm="OK" tn="语义理解 1-10" dt="text" by="787" sby="568" ng="10" na="10">
+  <assertionResult>
+    <name>JSON Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Missing property in path $[&apos;data&apos;][&apos;nlpResult&apos;]</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1661" it="0" lt="1661" ct="58" ts="1584770931148" s="false" lb="HTTP请求 26环境并发" rc="200" rm="OK" tn="语义理解 1-14" dt="text" by="854" sby="577" ng="9" na="9">
+  <assertionResult>
+    <name>JSON Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Missing property in path $[&apos;data&apos;][&apos;nlpResult&apos;]</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1787" it="0" lt="1787" ct="160" ts="1584770931045" s="false" lb="HTTP请求 26环境并发" rc="200" rm="OK" tn="语义理解 1-12" dt="text" by="787" sby="577" ng="8" na="8">
+  <assertionResult>
+    <name>JSON Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Missing property in path $[&apos;data&apos;][&apos;nlpResult&apos;]</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1647" it="0" lt="1641" ct="53" ts="1584770931198" s="false" lb="HTTP请求 26环境并发" rc="200" rm="OK" tn="语义理解 1-15" dt="text" by="854" sby="571" ng="8" na="8">
+  <assertionResult>
+    <name>JSON Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Missing property in path $[&apos;data&apos;][&apos;nlpResult&apos;]</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1744" it="0" lt="1744" ct="107" ts="1584770931098" s="false" lb="HTTP请求 26环境并发" rc="200" rm="OK" tn="语义理解 1-13" dt="text" by="869" sby="577" ng="8" na="8">
+  <assertionResult>
+    <name>JSON Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Missing property in path $[&apos;data&apos;][&apos;nlpResult&apos;]</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1665" it="0" lt="1665" ct="58" ts="1584770931249" s="false" lb="HTTP请求 26环境并发" rc="200" rm="OK" tn="语义理解 1-16" dt="text" by="806" sby="571" ng="5" na="5">
+  <assertionResult>
+    <name>JSON Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Missing property in path $[&apos;data&apos;][&apos;nlpResult&apos;]</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1617" it="0" lt="1616" ct="46" ts="1584770931298" s="false" lb="HTTP请求 26环境并发" rc="200" rm="OK" tn="语义理解 1-17" dt="text" by="787" sby="571" ng="5" na="5">
+  <assertionResult>
+    <name>JSON Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Missing property in path $[&apos;data&apos;][&apos;nlpResult&apos;]</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1667" it="0" lt="1667" ct="55" ts="1584770931350" s="false" lb="HTTP请求 26环境并发" rc="200" rm="OK" tn="语义理解 1-18" dt="text" by="854" sby="571" ng="3" na="3">
+  <assertionResult>
+    <name>JSON Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Missing property in path $[&apos;data&apos;][&apos;nlpResult&apos;]</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1652" it="0" lt="1652" ct="59" ts="1584770931396" s="false" lb="HTTP请求 26环境并发" rc="200" rm="OK" tn="语义理解 1-19" dt="text" by="806" sby="559" ng="2" na="2">
+  <assertionResult>
+    <name>JSON Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Missing property in path $[&apos;data&apos;][&apos;nlpResult&apos;]</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1708" it="0" lt="1708" ct="109" ts="1584770931449" s="false" lb="HTTP请求 26环境并发" rc="200" rm="OK" tn="语义理解 1-20" dt="text" by="806" sby="568" ng="1" na="1">
+  <assertionResult>
+    <name>JSON Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Missing property in path $[&apos;data&apos;][&apos;nlpResult&apos;]</failureMessage>
+  </assertionResult>
+</httpSample>
+
+<httpSample t="1760" it="0" lt="1752" ct="46" ts="1584788893186" s="false" lb="HTTP请求 26环境并发" rc="200" rm="OK" tn="语义理解 1-7" dt="text" by="869" sby="574" ng="20" na="20">
+  <assertionResult>
+    <name>JSON Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Missing property in path $[&apos;data&apos;][&apos;nlpResult&apos;]</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="2036" it="0" lt="2036" ct="275" ts="1584788892957" s="false" lb="HTTP请求 26环境并发" rc="200" rm="OK" tn="语义理解 1-2" dt="text" by="808" sby="571" ng="20" na="20">
+  <assertionResult>
+    <name>JSON Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Missing property in path $[&apos;data&apos;][&apos;nlpResult&apos;]</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1726" it="0" lt="1725" ct="54" ts="1584788893288" s="false" lb="HTTP请求 26环境并发" rc="200" rm="OK" tn="语义理解 1-9" dt="text" by="843" sby="568" ng="19" na="19">
+  <assertionResult>
+    <name>JSON Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Missing property in path $[&apos;data&apos;][&apos;nlpResult&apos;]</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1670" it="0" lt="1670" ct="71" ts="1584788893337" s="false" lb="HTTP请求 26环境并发" rc="200" rm="OK" tn="语义理解 1-10" dt="text" by="787" sby="568" ng="20" na="20">
+  <assertionResult>
+    <name>JSON Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Missing property in path $[&apos;data&apos;][&apos;nlpResult&apos;]</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="2054" it="0" lt="2054" ct="274" ts="1584788892957" s="false" lb="HTTP请求 26环境并发" rc="200" rm="OK" tn="语义理解 1-1" dt="text" by="872" sby="574" ng="19" na="19">
+  <assertionResult>
+    <name>JSON Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Missing property in path $[&apos;data&apos;][&apos;nlpResult&apos;]</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1766" it="0" lt="1766" ct="67" ts="1584788893242" s="false" lb="HTTP请求 26环境并发" rc="200" rm="OK" tn="语义理解 1-8" dt="text" by="789" sby="574" ng="20" na="20">
+  <assertionResult>
+    <name>JSON Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Missing property in path $[&apos;data&apos;][&apos;nlpResult&apos;]</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1902" it="0" lt="1901" ct="97" ts="1584788893135" s="false" lb="HTTP请求 26环境并发" rc="200" rm="OK" tn="语义理解 1-6" dt="text" by="845" sby="574" ng="14" na="14">
+  <assertionResult>
+    <name>JSON Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Missing property in path $[&apos;data&apos;][&apos;nlpResult&apos;]</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="2033" it="0" lt="2033" ct="190" ts="1584788893038" s="false" lb="HTTP请求 26环境并发" rc="200" rm="OK" tn="语义理解 1-4" dt="text" by="845" sby="565" ng="13" na="13">
+  <assertionResult>
+    <name>JSON Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Missing property in path $[&apos;data&apos;][&apos;nlpResult&apos;]</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1687" it="0" lt="1687" ct="57" ts="1584788893388" s="false" lb="HTTP请求 26环境并发" rc="200" rm="OK" tn="语义理解 1-11" dt="text" by="807" sby="577" ng="13" na="13">
+  <assertionResult>
+    <name>JSON Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Missing property in path $[&apos;data&apos;][&apos;nlpResult&apos;]</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1985" it="0" lt="1985" ct="142" ts="1584788893090" s="false" lb="HTTP请求 26环境并发" rc="200" rm="OK" tn="语义理解 1-5" dt="text" by="872" sby="565" ng="13" na="13">
+  <assertionResult>
+    <name>JSON Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Missing property in path $[&apos;data&apos;][&apos;nlpResult&apos;]</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="2092" it="0" lt="2092" ct="245" ts="1584788892987" s="false" lb="HTTP请求 26环境并发" rc="200" rm="OK" tn="语义理解 1-3" dt="text" by="809" sby="571" ng="12" na="12">
+  <assertionResult>
+    <name>JSON Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Missing property in path $[&apos;data&apos;][&apos;nlpResult&apos;]</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1668" it="0" lt="1668" ct="53" ts="1584788893438" s="false" lb="HTTP请求 26环境并发" rc="200" rm="OK" tn="语义理解 1-12" dt="text" by="843" sby="577" ng="9" na="9">
+  <assertionResult>
+    <name>JSON Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Missing property in path $[&apos;data&apos;][&apos;nlpResult&apos;]</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1648" it="0" lt="1648" ct="61" ts="1584788893488" s="false" lb="HTTP请求 26环境并发" rc="200" rm="OK" tn="语义理解 1-13" dt="text" by="806" sby="577" ng="8" na="8">
+  <assertionResult>
+    <name>JSON Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Missing property in path $[&apos;data&apos;][&apos;nlpResult&apos;]</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1659" it="0" lt="1659" ct="52" ts="1584788893539" s="false" lb="HTTP请求 26环境并发" rc="200" rm="OK" tn="语义理解 1-14" dt="text" by="818" sby="577" ng="7" na="7">
+  <assertionResult>
+    <name>JSON Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Missing property in path $[&apos;data&apos;][&apos;nlpResult&apos;]</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1659" it="0" lt="1659" ct="67" ts="1584788893587" s="false" lb="HTTP请求 26环境并发" rc="200" rm="OK" tn="语义理解 1-15" dt="text" by="854" sby="571" ng="6" na="6">
+  <assertionResult>
+    <name>JSON Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Missing property in path $[&apos;data&apos;][&apos;nlpResult&apos;]</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1651" it="0" lt="1651" ct="53" ts="1584788893636" s="false" lb="HTTP请求 26环境并发" rc="200" rm="OK" tn="语义理解 1-16" dt="text" by="842" sby="571" ng="5" na="5">
+  <assertionResult>
+    <name>JSON Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Missing property in path $[&apos;data&apos;][&apos;nlpResult&apos;]</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1695" it="0" lt="1695" ct="71" ts="1584788893685" s="false" lb="HTTP请求 26环境并发" rc="200" rm="OK" tn="语义理解 1-17" dt="text" by="854" sby="571" ng="4" na="4">
+  <assertionResult>
+    <name>JSON Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Missing property in path $[&apos;data&apos;][&apos;nlpResult&apos;]</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1649" it="0" lt="1649" ct="53" ts="1584788893740" s="false" lb="HTTP请求 26环境并发" rc="200" rm="OK" tn="语义理解 1-18" dt="text" by="842" sby="571" ng="4" na="4">
+  <assertionResult>
+    <name>JSON Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Missing property in path $[&apos;data&apos;][&apos;nlpResult&apos;]</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1697" it="0" lt="1697" ct="57" ts="1584788893789" s="false" lb="HTTP请求 26环境并发" rc="200" rm="OK" tn="语义理解 1-19" dt="text" by="818" sby="559" ng="2" na="2">
+  <assertionResult>
+    <name>JSON Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Missing property in path $[&apos;data&apos;][&apos;nlpResult&apos;]</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1745" it="0" lt="1745" ct="115" ts="1584788893839" s="false" lb="HTTP请求 26环境并发" rc="200" rm="OK" tn="语义理解 1-20" dt="text" by="787" sby="568" ng="1" na="1">
+  <assertionResult>
+    <name>JSON Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Missing property in path $[&apos;data&apos;][&apos;nlpResult&apos;]</failureMessage>
+  </assertionResult>
+</httpSample>
+
+</testResults>
